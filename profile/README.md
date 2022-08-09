@@ -1,6 +1,6 @@
 
 
-## Hi! We are Tecky Academy Team
+## Hi! We are Tecky Academy Team!
 
 ![Tecky Academy](../images/banner.png)
 
