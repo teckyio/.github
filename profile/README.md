@@ -2,7 +2,7 @@
 
 ## Hi! We are Tecky Academy Team!
 
-![Tecky Academy](../images/banner.png)
+![Tecky Academy](https://github.com/teckyio/.github/blob/main/images/banner.png)
 
 
 We are a coding bootcamp founded in 2018 Hong Kong.
